@@ -2,7 +2,7 @@
 Este projeto é o resultado do primeiro *challenge*/desafio desenvolvido na 3ª turma da #OracleNextEducation, apelidado por mim de "*(de)CODIFIQUE_*" :rocket:
 
 ### Prévia no GitHub Pages:
-⛓️: https://github.com/ThalesVieraAsura
+⛓️: https://github.com/ThalesVieraAsura/ThalesVieraAsura.github.io.git
 
 ## 📋 Sobre
 Feito com HTML, CSS e Javascript esta aplicação tem por função codificar e decodificar mensagens de texto de maneira simples. Visando a troca de informações com outras pessoas de uma forma segura e divertida.
